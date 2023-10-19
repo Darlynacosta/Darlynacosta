@@ -14,7 +14,7 @@ nav{
 }
 nav .logo a{
     text-decoration: none;
-    color: #5f176d;
+    color: #ffffff;
     font-size: 35px;
     font-weight: 600;
 }
@@ -37,8 +37,8 @@ nav li a{
     transition: 0.3s;
 }
 nav li a:hover{
-    background-color: white;
-    color: black;
+    background-color: rgb(170, 12, 218);
+    color: rgb(255, 255, 255);
 }
 .banner{
     height: 100vh;
