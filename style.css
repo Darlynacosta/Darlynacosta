@@ -42,7 +42,7 @@ nav li a:hover{
 }
 .banner{
     height: 100vh;
-    background: linear-gradient( rgba(80, 6, 114, 0.623), rgba(92, 82, 82, 0.308)),url('fundoroxo.jpg');
+    background: linear-gradient( rgba(80, 6, 114, 0.411), rgba(92, 82, 82, 0.308)),url('fundoroxo.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
