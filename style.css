@@ -115,13 +115,11 @@ nav li a:hover{
     transition: background-color 0.3s, color 0.3s;
 }
 
-.overlay-button:hover {
-    background-color: rgb(255, 255, 255);
-    color: rgb(78, 8, 124);
+.overlay-button:hover{
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
 .n-overlay a{
-    background-color: rgb(255, 255, 255);
-    color: rgb(88, 8, 119);
-}
+    color: rgb(254, 253, 255);
+}rgb(255, 255, 255)
