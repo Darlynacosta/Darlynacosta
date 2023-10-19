@@ -104,8 +104,8 @@ nav li a:hover{
 }
 .overlay-button {
     display: inline-block;
-    background-color: white;
-    color: black;
+    background-color: rgb(170, 8, 235);
+    color: rgb(245, 243, 243);
     border: none;
     padding: 10px 20px;
     font-size: 18px;
